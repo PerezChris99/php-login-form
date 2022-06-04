@@ -16,7 +16,7 @@ CREATE TABLE `users` (
 
 
 INSERT INTO `users` (`id`, `username`, `email`, `password`) VALUES
-(8, 'Perez', 'perez@gmail.com', '0139a3c5cf42394be982e766c93f5ed0');
+(8, 'Perez', 'perez@gmail.com', '#');
 
 
 
